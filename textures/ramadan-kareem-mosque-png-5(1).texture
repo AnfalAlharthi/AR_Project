@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "ramadan-kareem-mosque-png-5(1)",
+  "identifier": "texture:104370-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "c196702bf0ed1fc518a5c3a5fb6706d2",
+  "assetLocator": "textures/ramadan-kareem-mosque-png-5(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:106656-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+    "textureExportConfig:107800-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+    "textureExportConfig:108946-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 400,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 700,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "c196702bf0ed1fc518a5c3a5fb6706d2",
+      "colorCount": 375,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.694910811409039,
+      "pixelsHigh": 400,
+      "pixelsWide": 700
+    }
+  ]
+}

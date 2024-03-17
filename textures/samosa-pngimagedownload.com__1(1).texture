@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "samosa-pngimagedownload.com__1(1)",
+  "identifier": "texture:414023-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "4edf3afabf850d9646601ddb73466e52",
+  "assetLocator": "textures/samosa-pngimagedownload.com__1(1).webp",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 480,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 480,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "4edf3afabf850d9646601ddb73466e52",
+      "colorCount": 40151,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "webp",
+      "entropyOfDistribution": 4.943575728775396,
+      "pixelsHigh": 480,
+      "pixelsWide": 480
+    }
+  ]
+}

@@ -1,0 +1,1429 @@
+{
+  "modelName": "document",
+  "name": "Effect",
+  "identifier": "document:4-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+  "id": "26b59218a611046dd9c0be9ba1a20d928",
+  "revision": "36b59218a611046dd9c0be9ba1a20d928",
+  "version": {
+    "dev": 0,
+    "patch": 0,
+    "prod": 180
+  },
+  "creatorIdentifier": "com.facebook.arstudio.skylight",
+  "creatorPlatform": "windows",
+  "creatorFileVersion": {
+    "dev": 0,
+    "patch": 0,
+    "prod": 180
+  },
+  "cameraFar": 50,
+  "cameraNear": 0.009999999776482582,
+  "measurementUnit": "meter",
+  "objects": [
+    {
+      "modelName": "assets_config_model",
+      "identifier": "assets_config_model:195-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+      "categoriesOrder": [
+        "textures",
+        "blocks",
+        "materials",
+        "patch_assets",
+        "audio",
+        "playback_controllers"
+      ]
+    }
+  ],
+  "projectFormatType": "separated_files",
+  "usingPatchesV2": true,
+  "visual_programming": {
+    "sectionFileLocation": "ramadan.patches"
+  },
+  "children": [
+    {
+      "modelName": "textures",
+      "identifier": "textures:10-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+      "defaultEnvironmentTexture": "environment_texture_model:346-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+      "children": [
+        {
+          "sectionFileLocation": "textures/DiffuseEnvironment.texture"
+        },
+        {
+          "sectionFileLocation": "textures/PreviewEnvironment.texture"
+        },
+        {
+          "sectionFileLocation": "textures/SpecularEnvironment.texture"
+        },
+        {
+          "modelName": "environment_texture_model",
+          "name": "Default environment texture",
+          "identifier": "environment_texture_model:346-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "diffuseEnvironmentTextureIdentifier": "textures/DiffuseEnvironment.texture",
+          "previewEnvironmentTextureIdentifier": "textures/PreviewEnvironment.texture",
+          "specularEnvironmentTextureIdentifier": "textures/SpecularEnvironment.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene/lambert2_baseColor.texture"
+        },
+        {
+          "sectionFileLocation": "objects/scene/lambert6_baseColor.texture"
+        },
+        {
+          "sectionFileLocation": "textures/ramadan-kareem-mosque-png-5(1).texture"
+        },
+        {
+          "sectionFileLocation": "textures/8a4b5a4ea34d83970da380f571906536.texture"
+        },
+        {
+          "sectionFileLocation": "textures/DA1ux2DXcAA5vTw.texture"
+        },
+        {
+          "sectionFileLocation": "textures/DdP5UpWW4AMmPlr.texture"
+        },
+        {
+          "sectionFileLocation": "objects/AFC0001/AFC0001_normal_1001.texture"
+        },
+        {
+          "sectionFileLocation": "objects/AFC0001/AFC0001_normal_1001-2.texture"
+        },
+        {
+          "sectionFileLocation": "textures/AFC0001_normal_1003.texture"
+        },
+        {
+          "sectionFileLocation": "textures/food.texture"
+        },
+        {
+          "sectionFileLocation": "textures/samosa-pngimagedownload.com__1(1).texture"
+        },
+        {
+          "sectionFileLocation": "textures/png-transparent-oil-lantern-lamp-oil-lamp-kerosene-lamp-flashlight-drawing-led-lamp (1).texture"
+        }
+      ]
+    },
+    {
+      "modelName": "materials",
+      "identifier": "materials:12-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+      "children": [
+        {
+          "sectionFileLocation": "objects/Star/Star_mat.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene/lambert1.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene/lambert2.material"
+        },
+        {
+          "sectionFileLocation": "objects/scene/lambert6.material"
+        },
+        {
+          "sectionFileLocation": "materials/material0-2.material"
+        },
+        {
+          "sectionFileLocation": "materials/material1.material"
+        },
+        {
+          "sectionFileLocation": "materials/material2.material"
+        },
+        {
+          "sectionFileLocation": "materials/material3.material"
+        },
+        {
+          "sectionFileLocation": "objects/AFC0001/Fabric Up_FRONT_1771.material"
+        },
+        {
+          "sectionFileLocation": "objects/AFC0001/Fabric Side_FRONT_1780.material"
+        },
+        {
+          "sectionFileLocation": "materials/food 1-2.material"
+        },
+        {
+          "sectionFileLocation": "objects/mustache/Material.002.material"
+        },
+        {
+          "sectionFileLocation": "materials/material4-3.material"
+        },
+        {
+          "sectionFileLocation": "materials/material5.material"
+        }
+      ]
+    },
+    {
+      "modelName": "prefabs",
+      "identifier": "prefabs:14-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+      "children": [
+        {
+          "modelName": "gltf",
+          "name": "Star",
+          "identifier": "gltf:307-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:313-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "308-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane28_lambert1_0",
+          "identifier": "gltf:830-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "831-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane10_lambert1_0",
+          "identifier": "gltf:842-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "843-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane9_lambert1_0",
+          "identifier": "gltf:854-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "855-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane8_lambert1_0",
+          "identifier": "gltf:866-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "867-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane7_lambert1_0",
+          "identifier": "gltf:878-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "879-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane6_lambert1_0",
+          "identifier": "gltf:890-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "891-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane5_lambert1_0",
+          "identifier": "gltf:902-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "903-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane4_lambert1_0",
+          "identifier": "gltf:914-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "915-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane3_lambert1_0",
+          "identifier": "gltf:926-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "927-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane2_lambert1_0",
+          "identifier": "gltf:938-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "939-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane29_lambert1_0",
+          "identifier": "gltf:950-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "951-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane30_lambert1_0",
+          "identifier": "gltf:962-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "963-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane1_lambert1_0",
+          "identifier": "gltf:974-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "975-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPipe1_lambert2_0",
+          "identifier": "gltf:986-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "987-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "polySurface2_lambert6_0",
+          "identifier": "gltf:998-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "999-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "polySurface2_lambert2_0",
+          "identifier": "gltf:1008-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1009-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "polySurface3_lambert6_0",
+          "identifier": "gltf:1020-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1021-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane48_lambert1_0",
+          "identifier": "gltf:1032-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1033-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane38_lambert1_0",
+          "identifier": "gltf:1044-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1045-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane37_lambert1_0",
+          "identifier": "gltf:1056-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1057-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane36_lambert1_0",
+          "identifier": "gltf:1068-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1069-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane35_lambert1_0",
+          "identifier": "gltf:1080-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1081-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane34_lambert1_0",
+          "identifier": "gltf:1092-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1093-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane33_lambert1_0",
+          "identifier": "gltf:1104-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1105-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane32_lambert1_0",
+          "identifier": "gltf:1116-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1117-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane31_lambert1_0",
+          "identifier": "gltf:1128-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1129-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane47_lambert1_0",
+          "identifier": "gltf:1140-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1141-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane46_lambert1_0",
+          "identifier": "gltf:1152-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1153-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane45_lambert1_0",
+          "identifier": "gltf:1164-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1165-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane44_lambert1_0",
+          "identifier": "gltf:1176-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1177-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane43_lambert1_0",
+          "identifier": "gltf:1188-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1189-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane42_lambert1_0",
+          "identifier": "gltf:1200-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1201-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane41_lambert1_0",
+          "identifier": "gltf:1212-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1213-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane40_lambert1_0",
+          "identifier": "gltf:1224-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1225-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane39_lambert1_0",
+          "identifier": "gltf:1236-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1237-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane18_lambert1_0",
+          "identifier": "gltf:1248-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1249-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane17_lambert1_0",
+          "identifier": "gltf:1260-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1261-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane19_lambert1_0",
+          "identifier": "gltf:1272-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1273-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane12_lambert1_0",
+          "identifier": "gltf:1284-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1285-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane11_lambert1_0",
+          "identifier": "gltf:1296-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1297-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane16_lambert1_0",
+          "identifier": "gltf:1308-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1309-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane15_lambert1_0",
+          "identifier": "gltf:1320-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1321-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane14_lambert1_0",
+          "identifier": "gltf:1332-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1333-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane13_lambert1_0",
+          "identifier": "gltf:1344-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1345-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane24_lambert1_0",
+          "identifier": "gltf:1356-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1357-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane23_lambert1_0",
+          "identifier": "gltf:1368-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1369-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane22_lambert1_0",
+          "identifier": "gltf:1380-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1381-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane21_lambert1_0",
+          "identifier": "gltf:1392-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1393-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane20_lambert1_0",
+          "identifier": "gltf:1404-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1405-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane26_lambert1_0",
+          "identifier": "gltf:1416-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1417-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane25_lambert1_0",
+          "identifier": "gltf:1428-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1429-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "pPlane27_lambert1_0",
+          "identifier": "gltf:1440-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "sourceIdentifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetLocator": "1441-6b59218a-6110-46dd-9c0b-e9ba1a20d928.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "AFC0001",
+          "identifier": "gltf:135506-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+          "sourceIdentifier": "master3_d_object_model:135515-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+          "assetLocator": "135507-cfd4f072-6130-4281-bd7a-95fcaef6b654.glb",
+          "isExternalAsset": false
+        },
+        {
+          "modelName": "gltf",
+          "name": "2",
+          "identifier": "gltf:76674-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b",
+          "sourceIdentifier": "master3_d_object_model:76680-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b",
+          "assetLocator": "76675-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b.glb",
+          "isExternalAsset": false
+        }
+      ]
+    },
+    {
+      "modelName": "3_d_objects_model",
+      "identifier": "3_d_objects_model:16-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+      "children": [
+        {
+          "sectionFileLocation": "objects/Star/Star.object"
+        },
+        {
+          "sectionFileLocation": "objects/scene/scene.object"
+        },
+        {
+          "sectionFileLocation": "objects/AFC0001/AFC0001.object"
+        },
+        {
+          "sectionFileLocation": "objects/mustache/mustache.object"
+        }
+      ]
+    },
+    {
+      "sectionFileLocation": "ramadan.scene"
+    },
+    {
+      "modelName": "layers",
+      "identifier": "layers:20-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+      "children": [
+        {
+          "modelName": "layer",
+          "name": "layer0",
+          "identifier": "layer:82-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "color": "0xff8c72ca"
+        }
+      ]
+    },
+    {
+      "modelName": "asset_collections_model",
+      "identifier": "asset_collections_model:24-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+      "children": [
+        {
+          "modelName": "asset_collection_model",
+          "name": "Star",
+          "identifier": "asset_collection_model:317-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "applicationData": [],
+          "assetDataHash": "7a64d9f18fef8565eb266b3bf576ae0f",
+          "assetLocator": "objects/Star/Star.gltf",
+          "authoringTool": "Khronos glTF Blender I/O v0.9.36",
+          "excludeDuringExport": true,
+          "externalSourceLocator": "sparkarstudio://arlibrary/facebook/three_d_object/1904885932990010",
+          "isExternalAsset": true,
+          "master3DInstanceSourceHash": "7a64d9f18fef8565eb266b3bf576ae0f",
+          "children": [
+            {
+              "modelName": "unsupportedFeatures",
+              "name": "unsupportedFeatures0",
+              "identifier": "unsupportedFeatures:315-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+              "namesForFeatureType": {
+                "Material": [
+                  "Star_mat"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "modelName": "asset_collection_model",
+          "name": "TARBUS SARBAINI (MERAH)",
+          "identifier": "asset_collection_model:1450-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "applicationData": [],
+          "assetDataHash": "682172df5a870957952cbfa55afa9289",
+          "assetLocator": "objects/scene/scene.gltf",
+          "authoringTool": "Sketchfab-12.64.0",
+          "excludeDuringExport": true,
+          "externalSourceLocator": "sparkarstudio://arlibrary/sketchfab/three_d_object/25787ff526994dbba5e532b975fe77c6",
+          "isExternalAsset": true,
+          "master3DInstanceSourceHash": "682172df5a870957952cbfa55afa9289",
+          "textures": [
+            "objects/scene/lambert2_baseColor.texture",
+            "objects/scene/lambert6_baseColor.texture"
+          ],
+          "children": [
+            {
+              "modelName": "unsupportedFeatures",
+              "name": "unsupportedFeatures0",
+              "identifier": "unsupportedFeatures:1448-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+              "namesForFeatureType": {
+                "Material": [
+                  "lambert1",
+                  "lambert2",
+                  "lambert6"
+                ]
+              }
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "scene",
+              "identifier": "file_reference_model:1452-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+              "sourceIdentifier": "asset_collection_model:1450-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+              "assetDataHash": "ccec064cf7f5bf5d2e7a4f35ce7a19c3",
+              "assetLocator": "objects/scene/scene.bin",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "lambert2_baseColor",
+              "identifier": "file_reference_model:1454-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+              "sourceIdentifier": "asset_collection_model:1450-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+              "assetDataHash": "25f528ffcd2eef153614fbefe841f4bc",
+              "assetLocator": "objects/scene/textures/lambert2_baseColor.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "lambert6_baseColor",
+              "identifier": "file_reference_model:1456-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+              "sourceIdentifier": "asset_collection_model:1450-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+              "assetDataHash": "3a2c72a1c73936695a99b4ed5b856972",
+              "assetLocator": "objects/scene/textures/lambert6_baseColor.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            }
+          ]
+        },
+        {
+          "modelName": "asset_collection_model",
+          "name": "AFC0001",
+          "identifier": "asset_collection_model:135519-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+          "assetDataHash": "f81407abdc30a2082195b97d26a67b53",
+          "assetLocator": "objects/AFC0001/AFC0001.fbx",
+          "authoringTool": "FBX SDK/FBX Plugins version 2020.0.1",
+          "excludeDuringExport": true,
+          "isExternalAsset": true,
+          "master3DInstanceSourceHash": "f81407abdc30a2082195b97d26a67b53",
+          "textures": [
+            "objects/AFC0001/AFC0001_normal_1001-2.texture",
+            "objects/AFC0001/AFC0001_normal_1001.texture"
+          ],
+          "children": [
+            {
+              "modelName": "unsupportedFeatures",
+              "name": "unsupportedFeatures0",
+              "identifier": "unsupportedFeatures:135517-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+              "namesForFeatureType": {
+                "Material": [
+                  "Fabric Up_FRONT_1771",
+                  "Fabric Side_FRONT_1780"
+                ]
+              }
+            },
+            {
+              "modelName": "file_reference_model",
+              "name": "AFC0001_normal_1001",
+              "identifier": "file_reference_model:135521-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+              "sourceIdentifier": "asset_collection_model:135519-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+              "assetDataHash": "a22f0710556687e872b3a44c6e4f99b6",
+              "assetLocator": "objects/AFC0001/AFC0001_normal_1001.png",
+              "excludeDuringExport": true,
+              "isExternalAsset": true
+            }
+          ]
+        },
+        {
+          "modelName": "asset_collection_model",
+          "name": "mustache",
+          "identifier": "asset_collection_model:76684-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b",
+          "assetDataHash": "8f0035a794a72756c80c04947449a1f9",
+          "assetLocator": "objects/mustache/mustache.fbx",
+          "authoringTool": "FBX SDK/FBX Plugins version 2020.3.2",
+          "excludeDuringExport": true,
+          "isExternalAsset": true,
+          "master3DInstanceSourceHash": "8f0035a794a72756c80c04947449a1f9",
+          "children": [
+            {
+              "modelName": "unsupportedFeatures",
+              "name": "unsupportedFeatures0",
+              "identifier": "unsupportedFeatures:76682-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b",
+              "namesForFeatureType": {
+                "Material": [
+                  "Material.002"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelName": "scripts_model",
+      "identifier": "scripts_model:36-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+      "children": [
+        {
+          "modelName": "script_bridging_variables_model",
+          "identifier": "script_bridging_variables_model:38-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+        }
+      ]
+    },
+    {
+      "modelName": "bundled_packages_model",
+      "identifier": "bundled_packages_model:44-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+    },
+    {
+      "modelName": "exportConfig",
+      "identifier": "exportConfig:48-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+      "children": [
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:322-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "accuracy": "best"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:324-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "accuracy": "best",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:326-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "accuracy": "best",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:331-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "accuracy": "best"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:333-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "accuracy": "best",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:335-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "accuracy": "best",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:340-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "accuracy": "best"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:342-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "accuracy": "best",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:344-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "accuracy": "best",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:106656-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:107800-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:108946-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:115440-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:116604-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:117770-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:123622-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:124800-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:125980-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:130721-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:131911-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:133103-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+          "method": "fastest"
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:310899-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+          "method": "fastest",
+          "targetFormat": 1
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:312145-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+          "method": "fastest",
+          "targetFormat": 2
+        },
+        {
+          "modelName": "textureExportConfig",
+          "identifier": "textureExportConfig:313393-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+          "method": "fastest"
+        }
+      ]
+    },
+    {
+      "modelName": "manifest",
+      "identifier": "manifest:50-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+      "additionalEnabledChanges": null,
+      "assistantAppIDs": [
+        "2320137961422959"
+      ],
+      "assistantClientToken": null,
+      "assistantIncludeInDevelopmentArtifacts": false,
+      "assistantQuickTestEnabled": true,
+      "assistantStorageEnabled": true,
+      "assistantUseWit": false,
+      "audioEnableAudioGraphComponents": false,
+      "audioEnableAudioTransformationsApi": false,
+      "bodyTrackingMinVersion": 101,
+      "cameraControlDefaultCameraFacing": "unspecified",
+      "dynamicTextAltitude": false,
+      "dynamicTextDate": false,
+      "dynamicTextLocation": false,
+      "dynamicTextTranslation": false,
+      "dynamicTextWeather": false,
+      "effectDisablesAudioPreview": false,
+      "effectDisablesMicrophone": true,
+      "effectForceAsyncScripting": false,
+      "effectForcesSynchronousScripting": false,
+      "effectHasAmbientAudio": false,
+      "effectHasAudioGraphApi": false,
+      "effectHasTriggeredAudio": true,
+      "effectImageAntiAliasingEdgeSharpness": 0.5,
+      "effectImageAntiAliasingEdgeThreshold": 0.5,
+      "effectImageAntiAliasingTechnique": "fxaa",
+      "effectPbrClearcoatMaterialExtension": false,
+      "effectPbrIorMaterialExtension": false,
+      "effectPbrSheenMaterialExtension": false,
+      "effectPbrSpecularMaterialExtension": false,
+      "effectPbrTransmissionMaterialExtension": false,
+      "effectRecordingFromMic": false,
+      "effectUses3DModelAssets": false,
+      "effectUses4KTextures": false,
+      "effectUsesAheadOfTimeShaders": false,
+      "effectUsesAnimationPlaybackController": false,
+      "effectUsesAnimationScriptingModule": false,
+      "effectUsesAppLauncher": false,
+      "effectUsesAssistant": false,
+      "effectUsesAudio": true,
+      "effectUsesAudioLegacyMicFork": false,
+      "effectUsesAudioMixer": false,
+      "effectUsesAudioSpatialEmitter": false,
+      "effectUsesAudioTimestamps": false,
+      "effectUsesAugmentAdjacency": false,
+      "effectUsesAugmentControl": false,
+      "effectUsesAugmentGrouping": false,
+      "effectUsesAugmentSharableConfig": false,
+      "effectUsesAugmentSizeControl": false,
+      "effectUsesAutomaticAlphaSort": false,
+      "effectUsesAutomaticInstructions": true,
+      "effectUsesBlockModulesConfigExtras": false,
+      "effectUsesBlocks": true,
+      "effectUsesBlocksDownloadable": false,
+      "effectUsesBlocksScripting": false,
+      "effectUsesBodyTracking": false,
+      "effectUsesBodyTracking2DKeyPoints": false,
+      "effectUsesBoundingBoxScripting": false,
+      "effectUsesBoundingBoxUtilities": false,
+      "effectUsesCameraControl": false,
+      "effectUsesCameraInfoScriptingModule": false,
+      "effectUsesCameraShare": false,
+      "effectUsesComponentEvaluation": true,
+      "effectUsesComposedLocally": false,
+      "effectUsesComposedMaterial": false,
+      "effectUsesControllers": false,
+      "effectUsesCustomEngineSDK": false,
+      "effectUsesCustomFonts": false,
+      "effectUsesCustomMaterial": false,
+      "effectUsesCustomMaterialAndShaderCodeAsset": false,
+      "effectUsesCustomPipeline": false,
+      "effectUsesDSP": false,
+      "effectUsesDate": false,
+      "effectUsesDebugPatch": false,
+      "effectUsesDeltaTime": false,
+      "effectUsesDepth": false,
+      "effectUsesDepthData": false,
+      "effectUsesDepthShaderRead": false,
+      "effectUsesDeviceMotion": false,
+      "effectUsesDiagnosticsScriptingModule": false,
+      "effectUsesDirectionalLightEstimation": false,
+      "effectUsesDspAudioAnalyzer": false,
+      "effectUsesDspBitCrusher": false,
+      "effectUsesDspCompressor": false,
+      "effectUsesDspDelay": false,
+      "effectUsesDspDenoiser": false,
+      "effectUsesDspDistortion": false,
+      "effectUsesDspEnergyMeter": false,
+      "effectUsesDspModulator": false,
+      "effectUsesDspParametricEqualizer": false,
+      "effectUsesDspPitchShifter": false,
+      "effectUsesDspReverb": false,
+      "effectUsesDspVocoder": false,
+      "effectUsesDynamicCapabilities": false,
+      "effectUsesDynamicInstructions": false,
+      "effectUsesDynamicScriptProperties": false,
+      "effectUsesDynamicText": false,
+      "effectUsesEmbeddedVideo": false,
+      "effectUsesEnvironmentTexturePatch": false,
+      "effectUsesExperienceControl": false,
+      "effectUsesExternalBlocks": false,
+      "effectUsesExternalFonts": false,
+      "effectUsesExternalMusicSelection": false,
+      "effectUsesExternalTextures": false,
+      "effectUsesExternalTexturesAudio": false,
+      "effectUsesExternalVideo": false,
+      "effectUsesExternalVideoStream": false,
+      "effectUsesFBA": false,
+      "effectUsesFaceDistortion": false,
+      "effectUsesFaceExpression52Blendshapes": false,
+      "effectUsesFaceExpressionExperimental": false,
+      "effectUsesFaceExpressionFitting": false,
+      "effectUsesFaceExtraction": false,
+      "effectUsesFaceTracker": true,
+      "effectUsesFaceTracker3D": true,
+      "effectUsesFaceTracker96": false,
+      "effectUsesFaceTrackingScripting2D": false,
+      "effectUsesFaceTrueScale": false,
+      "effectUsesFaceWave": false,
+      "effectUsesFacialExpressionRecognition": false,
+      "effectUsesFacialGestureRecognition": true,
+      "effectUsesFieldOfView": false,
+      "effectUsesFingerTracking": false,
+      "effectUsesFonts": true,
+      "effectUsesFormFactor": false,
+      "effectUsesFrameBrightness": false,
+      "effectUsesGalleryPicker": false,
+      "effectUsesGenericML": false,
+      "effectUsesGlobalTransform": false,
+      "effectUsesGlslEs300Features": false,
+      "effectUsesGltfPbrShader": false,
+      "effectUsesGraphQL": false,
+      "effectUsesHairSegmentation": false,
+      "effectUsesHalfFloatRenderPass": false,
+      "effectUsesHandGestureKeypoints": false,
+      "effectUsesHandTracker": false,
+      "effectUsesHapticFeedback": false,
+      "effectUsesHeadsetInfo": false,
+      "effectUsesHmdNetworkingAPI": false,
+      "effectUsesI18n": false,
+      "effectUsesIdTracker": false,
+      "effectUsesImageAntiAliasing": false,
+      "effectUsesImageAssets": false,
+      "effectUsesImageBasedLighting": true,
+      "effectUsesInstruction": true,
+      "effectUsesIntent": false,
+      "effectUsesInterEffectLinking": false,
+      "effectUsesInternalScriptingAPI": false,
+      "effectUsesIrisTracking": false,
+      "effectUsesJavaScript": false,
+      "effectUsesJavaScriptRuntimeForPatches": false,
+      "effectUsesJavaScriptScripting": false,
+      "effectUsesJavaScriptShaders": false,
+      "effectUsesJavascriptToPatchesBridging": false,
+      "effectUsesLayers": false,
+      "effectUsesLocale": false,
+      "effectUsesLocation": false,
+      "effectUsesLocationAirportData": false,
+      "effectUsesMaterialsScriptingModule": false,
+      "effectUsesMaxParticipants": false,
+      "effectUsesMicrophone": false,
+      "effectUsesMicrophoneV2": false,
+      "effectUsesMovingTargetTracking": false,
+      "effectUsesMultipeer": false,
+      "effectUsesMultipeerMessaging": false,
+      "effectUsesMultiplane": false,
+      "effectUsesMultiplayer": false,
+      "effectUsesMultipleRenderTargets": false,
+      "effectUsesMusic": false,
+      "effectUsesNativeUIControl": false,
+      "effectUsesNativeUIControlEditableText": false,
+      "effectUsesNativeUIControlEditableTextExitCB": false,
+      "effectUsesNativeUIControlPicker": false,
+      "effectUsesNativeUIControlPickerRemoteImages": false,
+      "effectUsesNativeUIControlRawTextInput": false,
+      "effectUsesNativeUIControlSlider": false,
+      "effectUsesNativeUIControlSliderTypeColor": false,
+      "effectUsesNetworking": false,
+      "effectUsesNetworkingScriptAPI": false,
+      "effectUsesObjectCapture": false,
+      "effectUsesObjectTracking": false,
+      "effectUsesOpticalFlow": false,
+      "effectUsesOpusCodec": false,
+      "effectUsesOverlayOutput": false,
+      "effectUsesPBRMaterial": true,
+      "effectUsesParticipant": false,
+      "effectUsesParticleSystem": false,
+      "effectUsesPeerOutput": false,
+      "effectUsesPeerVideoStream": false,
+      "effectUsesPermissions": false,
+      "effectUsesPersistence": false,
+      "effectUsesPersistenceCaptureScope": false,
+      "effectUsesPersistenceSharedScope": false,
+      "effectUsesPersonalization": false,
+      "effectUsesPhysics": false,
+      "effectUsesPhysicsSync": false,
+      "effectUsesPlaneNormal": false,
+      "effectUsesPlaneTrackerTrackTextureAPI": false,
+      "effectUsesPlatformEvents": false,
+      "effectUsesPlatformEventsDocumentScoped": false,
+      "effectUsesPlatformFunctions": false,
+      "effectUsesPlatformTextures": false,
+      "effectUsesPlaybackInfo": false,
+      "effectUsesPortalPose": false,
+      "effectUsesPreciseLocation": false,
+      "effectUsesPrefabScriptingModule": false,
+      "effectUsesPreviewCaptureOutputs": false,
+      "effectUsesQPL": false,
+      "effectUsesRGBCameraTexture": false,
+      "effectUsesRTRMapping": false,
+      "effectUsesRandomScriptingModule": false,
+      "effectUsesReactiveScriptingModule": false,
+      "effectUsesRealScaleEstimation": false,
+      "effectUsesRealScaleEstimationWithFallback": false,
+      "effectUsesRecognition": false,
+      "effectUsesRecognitionTracking": false,
+      "effectUsesRecordedSignalsForSamplers": false,
+      "effectUsesRemote3DModels": false,
+      "effectUsesRemoteMaps": false,
+      "effectUsesRenderPasses": false,
+      "effectUsesRenderSettingsHigh": false,
+      "effectUsesRingTryOn": false,
+      "effectUsesRotateVector": false,
+      "effectUsesSceneDepth": false,
+      "effectUsesSceneDepthWithFallback": false,
+      "effectUsesSceneObjectTags": false,
+      "effectUsesSceneRenderPassResolutionAspectRatio": false,
+      "effectUsesSceneScriptingModule": false,
+      "effectUsesScriptAnalytics": false,
+      "effectUsesScriptingDynamicInstantiation": false,
+      "effectUsesSegmentation": false,
+      "effectUsesSegmentationType": false,
+      "effectUsesShaderCode": false,
+      "effectUsesShaderPicking": false,
+      "effectUsesShadows": false,
+      "effectUsesSkinSegmentation": false,
+      "effectUsesSkinSmoothing": false,
+      "effectUsesSpaceSetup": false,
+      "effectUsesSpatialGesture": false,
+      "effectUsesSpatialHandTracking": false,
+      "effectUsesSplitScreen": false,
+      "effectUsesStaticTargetTracking": false,
+      "effectUsesStyleTransfer": false,
+      "effectUsesSupportedOrientations": false,
+      "effectUsesSvg": false,
+      "effectUsesSyncDomApis": false,
+      "effectUsesTargetRecognition": false,
+      "effectUsesTextAssets": false,
+      "effectUsesTextCaptions": false,
+      "effectUsesTextExtrusion": false,
+      "effectUsesTexturesScriptingModule": false,
+      "effectUsesTimeScriptingModule": false,
+      "effectUsesToasterTracking": false,
+      "effectUsesTouchGestures": true,
+      "effectUsesTwoDimensionalText": true,
+      "effectUsesTypeScript": false,
+      "effectUsesUiCore": false,
+      "effectUsesUiPlanarBackend": false,
+      "effectUsesUnifiedTargetTracking": false,
+      "effectUsesUnitsScriptingModule": false,
+      "effectUsesVariadicMath": true,
+      "effectUsesVertexTextureFetch": false,
+      "effectUsesVisualShaders": false,
+      "effectUsesVisualShadersSdf": false,
+      "effectUsesVoiceInteraction": false,
+      "effectUsesWarpPostProcessor": false,
+      "effectUsesWarpPreProcessor": false,
+      "effectUsesWarpSmoothing": true,
+      "effectUsesWeather": false,
+      "effectUsesWebPTexture": false,
+      "effectUsesWebsockets": false,
+      "effectUsesWorldTracker": false,
+      "effectUsesWorldTrackerEnvironmentLight": false,
+      "effectUsesWorldTrackerJSAPI": false,
+      "effectUsesWorldTrackingWorldMap": false,
+      "effectUsesWorldUnderstanding": false,
+      "effectUsesWorldUnderstandingV2": false,
+      "effectUsesWriteableSignalSource": false,
+      "engineSDKVersion": "180.0",
+      "externalTexturesWhitelistedDomains": null,
+      "faceExpressionFittingMinVersion": 15,
+      "faceExpressionFittingRTRRetargetingMinVersion": 1,
+      "faceTrackerIsEnabled": false,
+      "faceTrackerMaxFaces": 2,
+      "faceTrackerMinVersion": 13,
+      "facewaveMinVersion": 1,
+      "hairSegmentationMinVersion": 1,
+      "handTrackerMaxHands": 2,
+      "handTrackerMinVersion": 3,
+      "instructionFindAnImageBackCameraEnabled": true,
+      "instructionFindAnImageFrontCameraEnabled": true,
+      "instructionFindBodyBackCameraEnabled": true,
+      "instructionFindBodyFrontCameraEnabled": true,
+      "instructionFindFaceBackCameraEnabled": true,
+      "instructionFindFaceFrontCameraEnabled": true,
+      "instructionFindHandBackCameraEnabled": true,
+      "instructionFindHandFrontCameraEnabled": true,
+      "instructionFindPersonBackCameraEnabled": true,
+      "instructionFindPersonFrontCameraEnabled": true,
+      "instructionTokens": null,
+      "interEffectLinkingEffectIds": null,
+      "internalScriptingAPIDelay": false,
+      "internalScriptingAPIDeprecatedParticles": false,
+      "internalScriptingAPIEventStream": false,
+      "internalScriptingAPIExperimentalCameraInfo": false,
+      "internalScriptingAPIGlobalTransform": false,
+      "manuallyEnabledItemsIds": [],
+      "maxParticipantsCount": 0,
+      "multiclassSegmentationMinVersion": 3004,
+      "objectTrackerMaxObjects": 1,
+      "optionalCapabilityItemIds": [],
+      "persistenceWhitelistedKeys": null,
+      "personalizationSpecialOccasion": "none",
+      "platformUsage": {},
+      "recognitionMinVersion": 2,
+      "ringTryOnMinVersion": 1,
+      "sceneDepthMinVersion": 1,
+      "sceneDepthWithFallbackMinVersion": 1,
+      "segmentationMinVersion": 2,
+      "shaderPostProcessor": false,
+      "shaderPreProcessor": false,
+      "supportsLandscape": false,
+      "supportsPortrait": true,
+      "supportsWildcardDomainsWhitelisting": false,
+      "targetRecognitionMinVersion": 2,
+      "touchGesturesSupportsLongPress": false,
+      "touchGesturesSupportsPan": false,
+      "touchGesturesSupportsPinch": false,
+      "touchGesturesSupportsRawTouch": false,
+      "touchGesturesSupportsRotate": false,
+      "touchGesturesSupportsTap": true,
+      "whitelistedDomains": null,
+      "witAppId": null,
+      "witClientToken": null,
+      "worldTrackerBackCameraEnabled": true,
+      "worldTrackerFrontCameraEnabled": true,
+      "worldTrackerMode": "plane",
+      "worldTrackerUsesFaceTracker": false
+    },
+    {
+      "modelName": "asset_attributions_model",
+      "identifier": "asset_attributions_model:52-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+      "children": [
+        {
+          "modelName": "asset_attribution_model",
+          "identifier": "asset_attribution_model:350-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetAuthor": "Spark AR Assets",
+          "assetModelIdentifier": "asset_collection_model:317-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetTitle": "Star Primitive",
+          "assetURLString": "",
+          "licenseModelIdentifier": "license_model:348-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+        },
+        {
+          "modelName": "asset_attribution_model",
+          "identifier": "asset_attribution_model:1460-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetAuthor": "eeelabvisual",
+          "assetModelIdentifier": "asset_collection_model:1450-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetTitle": "TARBUS SARBAINI (MERAH)",
+          "assetURLString": "https://sketchfab.com/3d-models/tarbus-sarbaini-merah-25787ff526994dbba5e532b975fe77c6",
+          "licenseModelIdentifier": "license_model:1458-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+        },
+        {
+          "modelName": "asset_attribution_model",
+          "identifier": "asset_attribution_model:98756-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetAuthor": "Spark AR Assets",
+          "assetModelIdentifier": "block_model:98754-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetTitle": "Head Occluder",
+          "assetURLString": "",
+          "licenseModelIdentifier": "license_model:348-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+        }
+      ]
+    },
+    {
+      "modelName": "licenses_model",
+      "identifier": "licenses_model:54-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+      "children": [
+        {
+          "modelName": "license_model",
+          "name": "Creative Commons Attribution 4.0",
+          "identifier": "license_model:348-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "linkURLString": "https://creativecommons.org/licenses/by/4.0/",
+          "slug": "CC BY 4.0"
+        },
+        {
+          "modelName": "license_model",
+          "name": "Creative Commons Attribution",
+          "identifier": "license_model:1458-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "linkURLString": "http://creativecommons.org/licenses/by/4.0/",
+          "slug": "by"
+        }
+      ]
+    },
+    {
+      "modelName": "target",
+      "identifier": "target:60-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+      "targetPlatforms": []
+    },
+    {
+      "modelName": "scripting_config_model",
+      "identifier": "scripting_config_model:68-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+      "forceStrictModeCompilation": true
+    },
+    {
+      "modelName": "graphicsConfig",
+      "identifier": "graphicsConfig:88-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+    },
+    {
+      "modelName": "videos_model",
+      "identifier": "videos_model:185-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+    },
+    {
+      "modelName": "input_mappings_model",
+      "identifier": "input_mappings_model:189-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+    },
+    {
+      "modelName": "block_documents_model",
+      "identifier": "block_documents_model:19422-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+      "children": [
+        {
+          "modelName": "block_model",
+          "name": "headOccluder",
+          "identifier": "block_model:98754-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "assetDataHash": "1f511056781098280646dee7325304c4",
+          "assetLocator": "blocks/headOccluder/headOccluder.arblock",
+          "excludeDuringExport": true,
+          "externalSourceLocator": "sparkarstudio://arlibrary/facebook/block/262918764786458",
+          "instances": [
+            "block_scene_model:99898-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+          ],
+          "isExternalAsset": true
+        }
+      ]
+    },
+    {
+      "modelName": "patch_assets_model",
+      "identifier": "patch_assets_model:1120-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+      "children": [
+        {
+          "modelName": "patch_data_base_model",
+          "name": "Eat Falling Objects",
+          "identifier": "patch_data_base_model:308073-cfd4f072-6130-4281-bd7a-95fcaef6b654",
+          "assetDataHash": "9492d88c3dd83cbea9bcc23e52851846",
+          "assetLocator": "patches/Eat Falling Objects.arp",
+          "isExternalAsset": true
+        }
+      ]
+    },
+    {
+      "modelName": "fonts",
+      "identifier": "fonts:1214-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b",
+      "children": [
+        {
+          "modelName": "local_font_model",
+          "name": "Facebook Sans Bold",
+          "identifier": "local_font_model:423758-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b",
+          "assetLocator": "423759-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b",
+          "fontIdentity": "com.facebook.editor.fonts.facebooksans-bold",
+          "isExternalAsset": false
+        }
+      ]
+    },
+    {
+      "modelName": "playback_controllers_model",
+      "identifier": "playback_controllers_model:1234-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b",
+      "children": [
+        {
+          "sectionFileLocation": "audios/audioPlaybackController0.audioctrl"
+        }
+      ]
+    },
+    {
+      "modelName": "sounds",
+      "identifier": "sounds:1238-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b",
+      "children": [
+        {
+          "modelName": "sound",
+          "name": "عطونا حق الليلة (mp3).m4a",
+          "identifier": "sound:440700-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b",
+          "assetDataHash": "fcba6d8afb03b2c374c0637fc922c8d4",
+          "assetLocator": "sounds/عطونا حق الليلة (mp3).m4a",
+          "duration": 63298,
+          "isExternalAsset": true
+        }
+      ]
+    }
+  ]
+}

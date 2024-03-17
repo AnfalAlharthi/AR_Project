@@ -1,0 +1,82 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "mustache",
+  "identifier": "master3_d_object_model:76680-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b",
+  "sourceIdentifier": "asset_collection_model:76684-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.023298203945159912,
+  "globalScaleFactor": 1,
+  "height": 0.14110565185546875,
+  "hidden": false,
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 0.5233954191207886,
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "2",
+      "identifier": "mesh:76670-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "nodeName": "2",
+      "numberOfFaces": 420,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:76674-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": -0,
+        "rz": 0,
+        "sx": 100,
+        "sy": 100,
+        "sz": 100,
+        "x": 0.5181983113288879,
+        "y": -0.5238072276115417,
+        "z": 0.4322424530982971
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:76672-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:76677-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_material_model:76666-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b",
+              "surfaceGroupIdentifier": "76678-6ff12441-e77d-42f5-8f98-dcd85b9c1c2b"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

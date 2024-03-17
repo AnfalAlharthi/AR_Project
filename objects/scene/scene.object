@@ -1,0 +1,4308 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "TARBUS SARBAINI (MERAH)",
+  "identifier": "master3_d_object_model:1446-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+  "sourceIdentifier": "asset_collection_model:1450-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 15.331923484802246,
+  "globalScaleFactor": 0.1110568841169134,
+  "height": 13.387140274047852,
+  "hidden": false,
+  "layerIdentifier": "layer0",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": -1.570796251296997,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 0.9999999403953552,
+    "sz": 0.9999999403953552,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 18.0087890625,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "TARBUS SARBAINI (MERAH).fbx",
+      "identifier": "sceneObject:818-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "layerIdentifier": "layer0",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 1.5707963705062866,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "sceneObject",
+          "name": "RootNode",
+          "identifier": "sceneObject:820-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "hidden": false,
+          "layerIdentifier": "layer0",
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "shapeColor": "0xff808080",
+          "shapeType": 0,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "children": [
+            {
+              "modelName": "sceneObject",
+              "name": "group6",
+              "identifier": "sceneObject:822-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+              "animationMask": {
+                "position": false,
+                "rotation": false,
+                "scale": false
+              },
+              "cameraVisibility": "back|front",
+              "hidden": false,
+              "layerIdentifier": "layer0",
+              "outputVisibility": "preview|capture",
+              "physicsEnabled": false,
+              "shapeColor": "0xff808080",
+              "shapeType": 0,
+              "tags": [],
+              "transform": {
+                "rx": 0,
+                "ry": 0,
+                "rz": 0,
+                "sx": 1,
+                "sy": 1,
+                "sz": 1,
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "children": [
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane28",
+                  "identifier": "sceneObject:824-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0.010035660117864609,
+                    "ry": 0.009296542033553123,
+                    "rz": 0.823635995388031,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.558207988739014,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane28_lambert1_0",
+                      "identifier": "mesh:826-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane28_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:830-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:828-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:833-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "834-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane10",
+                  "identifier": "sceneObject:836-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.2601262927055359,
+                    "ry": -0.2339092344045639,
+                    "rz": 0.8543228507041931,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.672702789306641,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane10_lambert1_0",
+                      "identifier": "mesh:838-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane10_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:842-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:840-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:845-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "846-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane9",
+                  "identifier": "sceneObject:848-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.2601262927055359,
+                    "ry": -0.2339092344045639,
+                    "rz": 0.8543228507041931,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.589869499206543,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane9_lambert1_0",
+                      "identifier": "mesh:850-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane9_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:854-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:852-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:857-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "858-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane8",
+                  "identifier": "sceneObject:860-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.3777849078178406,
+                    "ry": -0.32927200198173523,
+                    "rz": 0.8870903849601746,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.589869499206543,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane8_lambert1_0",
+                      "identifier": "mesh:862-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane8_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:866-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:864-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:869-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "870-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane7",
+                  "identifier": "sceneObject:872-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.10339824855327606,
+                    "ry": -0.09532703459262848,
+                    "rz": 0.8285258412361145,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.558207988739014,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane7_lambert1_0",
+                      "identifier": "mesh:874-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane7_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:878-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:876-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:881-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "882-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane6",
+                  "identifier": "sceneObject:884-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.049114957451820374,
+                    "ry": -0.04545013606548309,
+                    "rz": 0.8247058987617493,
+                    "sx": 0.9999999403953552,
+                    "sy": 0.9999999403953552,
+                    "sz": 0.11141759157180786,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane6_lambert1_0",
+                      "identifier": "mesh:886-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane6_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:890-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:888-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:893-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "894-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane5",
+                  "identifier": "sceneObject:896-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0.060465361922979355,
+                    "ry": 0.055922191590070724,
+                    "rz": 0.8252809643745422,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane5_lambert1_0",
+                      "identifier": "mesh:898-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane5_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:902-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:900-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:905-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "906-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane4",
+                  "identifier": "sceneObject:908-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.13901270925998688,
+                    "ry": -0.1276678740978241,
+                    "rz": 0.8324894309043884,
+                    "sx": 0.9999999403953552,
+                    "sy": 0.9999999403953552,
+                    "sz": 0.11141759157180786,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane4_lambert1_0",
+                      "identifier": "mesh:910-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane4_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:914-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:912-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:917-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "918-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane3",
+                  "identifier": "sceneObject:920-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.226694256067276,
+                    "ry": -0.20528090000152588,
+                    "rz": 0.8470388054847717,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane3_lambert1_0",
+                      "identifier": "mesh:922-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane3_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:926-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:924-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:929-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "930-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane2",
+                  "identifier": "sceneObject:932-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.08129791170358658,
+                    "ry": -0.07508943229913712,
+                    "rz": 0.826644778251648,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane2_lambert1_0",
+                      "identifier": "mesh:934-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane2_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:938-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:936-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:941-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "942-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane29",
+                  "identifier": "sceneObject:944-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0.06411384791135788,
+                    "ry": 0.05928438529372215,
+                    "rz": 0.8254910111427307,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane29_lambert1_0",
+                      "identifier": "mesh:946-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane29_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:950-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:948-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:953-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "954-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane30",
+                  "identifier": "sceneObject:956-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0.17502306401729584,
+                    "ry": 0.15993580222129822,
+                    "rz": 0.8376511335372925,
+                    "sx": 0.9999999403953552,
+                    "sy": 0.9999999403953552,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane30_lambert1_0",
+                      "identifier": "mesh:958-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane30_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:962-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:960-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:965-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "966-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane1",
+                  "identifier": "sceneObject:968-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0.8235893249511719,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane1_lambert1_0",
+                      "identifier": "mesh:970-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane1_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:974-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:972-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:977-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "978-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPipe1",
+                  "identifier": "sceneObject:980-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 3.1415927410125732,
+                    "ry": 1.2246468525851679E-16,
+                    "rz": 3.1415927410125732,
+                    "sx": 6.327920913696289,
+                    "sy": 4.03898811340332,
+                    "sz": 7.456587791442871,
+                    "x": 7.4841203689575195,
+                    "y": 0.26492705941200256,
+                    "z": -5.082044688199704E-16
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPipe1_lambert2_0",
+                      "identifier": "mesh:982-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPipe1_lambert2_0",
+                      "numberOfFaces": 640,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:986-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:984-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:989-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:808-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "990-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "polySurface2",
+                  "identifier": "sceneObject:992-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 3.1415927410125732,
+                    "ry": 1.2246467202362698E-16,
+                    "rz": 3.1415927410125732,
+                    "sx": 0.9109222888946533,
+                    "sy": 1,
+                    "sz": 0.6668829917907715,
+                    "x": 7.4841203689575195,
+                    "y": 0,
+                    "z": -5.082044688199704E-16
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "polySurface2_lambert6_0",
+                      "identifier": "mesh:994-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "polySurface2_lambert6_0",
+                      "numberOfFaces": 768,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:998-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:996-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1001-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:812-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1002-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "modelName": "mesh",
+                      "name": "polySurface2_lambert2_0",
+                      "identifier": "mesh:1004-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "polySurface2_lambert2_0",
+                      "numberOfFaces": 768,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1008-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1006-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1011-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:808-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1012-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "polySurface3",
+                  "identifier": "sceneObject:1014-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 3.1394662857055664,
+                    "ry": -0.007471736054867506,
+                    "rz": -3.1363718509674072,
+                    "sx": 0.9109023213386536,
+                    "sy": 0.9999948740005493,
+                    "sz": 0.6669009923934937,
+                    "x": 7.4841203689575195,
+                    "y": 0,
+                    "z": -5.082044688199704E-16
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "polySurface3_lambert6_0",
+                      "identifier": "mesh:1016-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "polySurface3_lambert6_0",
+                      "numberOfFaces": 3584,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1020-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1018-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1023-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:812-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1024-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane48",
+                  "identifier": "sceneObject:1026-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.23610617220401764,
+                    "ry": -0.23593579232692719,
+                    "rz": 0.8834879398345947,
+                    "sx": 1,
+                    "sy": 0.9999999403953552,
+                    "sz": 0.11141760647296906,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane48_lambert1_0",
+                      "identifier": "mesh:1028-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane48_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1032-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1030-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1035-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1036-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane38",
+                  "identifier": "sceneObject:1038-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.25576290488243103,
+                    "ry": -0.23020748794078827,
+                    "rz": 0.8533193469047546,
+                    "sx": 0.9999999403953552,
+                    "sy": 0.9999999403953552,
+                    "sz": 0.11141759902238846,
+                    "x": 7.7300286293029785,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane38_lambert1_0",
+                      "identifier": "mesh:1040-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane38_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1044-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1042-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1047-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1048-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane37",
+                  "identifier": "sceneObject:1050-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.14782726764678955,
+                    "ry": -0.15845662355422974,
+                    "rz": 0.8681356310844421,
+                    "sx": 1,
+                    "sy": 0.9999999403953552,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane37_lambert1_0",
+                      "identifier": "mesh:1052-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane37_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1056-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1054-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1059-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1060-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane36",
+                  "identifier": "sceneObject:1062-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.057603854686021805,
+                    "ry": -0.07630901038646698,
+                    "rz": 0.8596118092536926,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane36_lambert1_0",
+                      "identifier": "mesh:1064-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane36_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1068-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1066-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1071-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1072-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane35",
+                  "identifier": "sceneObject:1074-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0.051980748772621155,
+                    "ry": 0.025064552202820778,
+                    "rz": 0.8593267798423767,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane35_lambert1_0",
+                      "identifier": "mesh:1076-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane35_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1080-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1078-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1083-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1084-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane34",
+                  "identifier": "sceneObject:1086-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0.11353462934494019,
+                    "ry": 0.10456906259059906,
+                    "rz": 0.8295372724533081,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane34_lambert1_0",
+                      "identifier": "mesh:1088-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane34_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1092-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1090-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1095-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1096-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane33",
+                  "identifier": "sceneObject:1098-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": 0.03198421746492386,
+                    "ry": 0.02961624599993229,
+                    "rz": 0.8240630030632019,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane33_lambert1_0",
+                      "identifier": "mesh:1100-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane33_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1104-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1102-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1107-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1108-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane32",
+                  "identifier": "sceneObject:1110-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.11074452102184296,
+                    "ry": -0.10202788561582565,
+                    "rz": 0.8292495012283325,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane32_lambert1_0",
+                      "identifier": "mesh:1112-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane32_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1116-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1114-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1119-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1120-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane31",
+                  "identifier": "sceneObject:1122-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.02513943985104561,
+                    "ry": -0.02328234165906906,
+                    "rz": 0.8238820433616638,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane31_lambert1_0",
+                      "identifier": "mesh:1124-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane31_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1128-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1126-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1131-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1132-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane47",
+                  "identifier": "sceneObject:1134-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.08986996859312057,
+                    "ry": -0.10593072324991226,
+                    "rz": 0.8618090152740479,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane47_lambert1_0",
+                      "identifier": "mesh:1136-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane47_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1140-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1138-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1143-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1144-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane46",
+                  "identifier": "sceneObject:1146-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.008433758281171322,
+                    "ry": -0.03086993657052517,
+                    "rz": 0.8581088185310364,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane46_lambert1_0",
+                      "identifier": "mesh:1148-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane46_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1152-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1150-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1155-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1156-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane45",
+                  "identifier": "sceneObject:1158-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.38947224617004395,
+                    "ry": -0.3599857687950134,
+                    "rz": 0.9254225492477417,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.7300286293029785,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane45_lambert1_0",
+                      "identifier": "mesh:1160-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane45_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1164-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1162-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1167-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1168-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane44",
+                  "identifier": "sceneObject:1170-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.38947224617004395,
+                    "ry": -0.3599857687950134,
+                    "rz": 0.9254225492477417,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.672702789306641,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane44_lambert1_0",
+                      "identifier": "mesh:1172-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane44_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1176-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1174-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1179-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1180-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane43",
+                  "identifier": "sceneObject:1182-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.2698383033275604,
+                    "ry": -0.2644948363304138,
+                    "rz": 0.8911077380180359,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.672702789306641,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane43_lambert1_0",
+                      "identifier": "mesh:1184-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane43_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1188-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1186-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1191-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1192-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane42",
+                  "identifier": "sceneObject:1194-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.2698383033275604,
+                    "ry": -0.2644948363304138,
+                    "rz": 0.8911077380180359,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.589869499206543,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane42_lambert1_0",
+                      "identifier": "mesh:1196-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane42_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1200-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1198-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1203-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1204-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane41",
+                  "identifier": "sceneObject:1206-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.38886481523513794,
+                    "ry": -0.3595258593559265,
+                    "rz": 0.9252210855484009,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.589869499206543,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane41_lambert1_0",
+                      "identifier": "mesh:1208-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane41_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1212-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1210-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1215-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1216-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane40",
+                  "identifier": "sceneObject:1218-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.11204901337623596,
+                    "ry": -0.1261514276266098,
+                    "rz": 0.8638712167739868,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.558207988739014,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane40_lambert1_0",
+                      "identifier": "mesh:1220-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane40_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1224-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1222-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1227-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1228-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane39",
+                  "identifier": "sceneObject:1230-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.25576290488243103,
+                    "ry": -0.23020748794078827,
+                    "rz": 0.8533193469047546,
+                    "sx": 0.9999999403953552,
+                    "sy": 0.9999999403953552,
+                    "sz": 0.11141759902238846,
+                    "x": 7.672702789306641,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane39_lambert1_0",
+                      "identifier": "mesh:1232-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane39_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1236-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1234-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1239-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1240-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane18",
+                  "identifier": "sceneObject:1242-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.06494791805744171,
+                    "ry": -0.0755620077252388,
+                    "rz": 0.862285852432251,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane18_lambert1_0",
+                      "identifier": "mesh:1244-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane18_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1248-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1246-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1251-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1252-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane17",
+                  "identifier": "sceneObject:1254-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.17606879770755768,
+                    "ry": -0.17620202898979187,
+                    "rz": 0.8745647072792053,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane17_lambert1_0",
+                      "identifier": "mesh:1256-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane17_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1260-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1258-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1263-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1264-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane19",
+                  "identifier": "sceneObject:1266-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.2693064212799072,
+                    "ry": -0.25674763321876526,
+                    "rz": 0.8932339549064636,
+                    "sx": 1,
+                    "sy": 0.9999999403953552,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane19_lambert1_0",
+                      "identifier": "mesh:1268-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane19_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1272-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1270-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1275-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1276-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane12",
+                  "identifier": "sceneObject:1278-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.37838414311408997,
+                    "ry": -0.3297339081764221,
+                    "rz": 0.8872842788696289,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.7300286293029785,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane12_lambert1_0",
+                      "identifier": "mesh:1280-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane12_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1284-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1282-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1287-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1288-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane11",
+                  "identifier": "sceneObject:1290-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.37838414311408997,
+                    "ry": -0.3297339081764221,
+                    "rz": 0.8872842788696289,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.672702789306641,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane11_lambert1_0",
+                      "identifier": "mesh:1292-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane11_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1296-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1294-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1299-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1300-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane16",
+                  "identifier": "sceneObject:1302-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.23214644193649292,
+                    "ry": -0.2251863330602646,
+                    "rz": 0.884910523891449,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.558207988739014,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane16_lambert1_0",
+                      "identifier": "mesh:1304-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane16_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1308-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1306-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1311-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1312-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane15",
+                  "identifier": "sceneObject:1314-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.5254743099212646,
+                    "ry": -0.44910141825675964,
+                    "rz": 0.9790863394737244,
+                    "sx": 1,
+                    "sy": 0.9999999403953552,
+                    "sz": 0.11141760647296906,
+                    "x": 7.589869499206543,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane15_lambert1_0",
+                      "identifier": "mesh:1316-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane15_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1320-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1318-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1323-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1324-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane14",
+                  "identifier": "sceneObject:1326-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.39778703451156616,
+                    "ry": -0.3591747581958771,
+                    "rz": 0.9304558038711548,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.589869499206543,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane14_lambert1_0",
+                      "identifier": "mesh:1328-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane14_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1332-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1330-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1335-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1336-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane13",
+                  "identifier": "sceneObject:1338-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.39778703451156616,
+                    "ry": -0.3591747581958771,
+                    "rz": 0.9304558038711548,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.672702789306641,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane13_lambert1_0",
+                      "identifier": "mesh:1340-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane13_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1344-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1342-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1347-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1348-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane24",
+                  "identifier": "sceneObject:1350-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.5261311531066895,
+                    "ry": -0.44953134655952454,
+                    "rz": 0.979363203048706,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.672702789306641,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane24_lambert1_0",
+                      "identifier": "mesh:1352-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane24_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1356-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1354-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1359-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1360-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane23",
+                  "identifier": "sceneObject:1362-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.5261311531066895,
+                    "ry": -0.44953134655952454,
+                    "rz": 0.979363203048706,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.7300286293029785,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane23_lambert1_0",
+                      "identifier": "mesh:1364-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane23_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1368-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1366-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1371-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1372-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane22",
+                  "identifier": "sceneObject:1374-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.125919371843338,
+                    "ry": -0.13125531375408173,
+                    "rz": 0.8676450252532959,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane22_lambert1_0",
+                      "identifier": "mesh:1376-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane22_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1380-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1378-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1383-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1384-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane21",
+                  "identifier": "sceneObject:1386-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.209233358502388,
+                    "ry": -0.20535503327846527,
+                    "rz": 0.8803564310073853,
+                    "sx": 1,
+                    "sy": 0.9999999403953552,
+                    "sz": 0.11141760647296906,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane21_lambert1_0",
+                      "identifier": "mesh:1388-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane21_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1392-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1390-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1395-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1396-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane20",
+                  "identifier": "sceneObject:1398-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.36200475692749023,
+                    "ry": -0.3317797780036926,
+                    "rz": 0.9188307523727417,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.51953125,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane20_lambert1_0",
+                      "identifier": "mesh:1400-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane20_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1404-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1402-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1407-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1408-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane26",
+                  "identifier": "sceneObject:1410-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.1430271565914154,
+                    "ry": -0.13128851354122162,
+                    "rz": 0.8330077528953552,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.589869499206543,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane26_lambert1_0",
+                      "identifier": "mesh:1412-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane26_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1416-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1414-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1419-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1420-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane25",
+                  "identifier": "sceneObject:1422-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.1430271565914154,
+                    "ry": -0.13128851354122162,
+                    "rz": 0.8330077528953552,
+                    "sx": 1,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.672702789306641,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane25_lambert1_0",
+                      "identifier": "mesh:1424-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane25_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1428-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1426-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1431-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1432-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "modelName": "sceneObject",
+                  "name": "pPlane27",
+                  "identifier": "sceneObject:1434-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                  "animationMask": {
+                    "position": false,
+                    "rotation": false,
+                    "scale": false
+                  },
+                  "cameraVisibility": "back|front",
+                  "hidden": false,
+                  "layerIdentifier": "layer0",
+                  "outputVisibility": "preview|capture",
+                  "physicsEnabled": false,
+                  "shapeColor": "0xff808080",
+                  "shapeType": 0,
+                  "tags": [],
+                  "transform": {
+                    "rx": -0.2551969587802887,
+                    "ry": -0.22972656786441803,
+                    "rz": 0.8531903624534607,
+                    "sx": 0.9999999403953552,
+                    "sy": 1,
+                    "sz": 0.11141759902238846,
+                    "x": 7.589869499206543,
+                    "y": 1.2659518718719482,
+                    "z": 0.03566434606909752
+                  },
+                  "children": [
+                    {
+                      "modelName": "mesh",
+                      "name": "pPlane27_lambert1_0",
+                      "identifier": "mesh:1436-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "animationMask": {
+                        "position": false,
+                        "rotation": false,
+                        "scale": false
+                      },
+                      "cameraVisibility": "back|front",
+                      "castShadow": false,
+                      "hidden": false,
+                      "layerIdentifier": "layer0",
+                      "nodeName": "pPlane27_lambert1_0",
+                      "numberOfFaces": 48,
+                      "outputVisibility": "preview|capture",
+                      "physicsEnabled": false,
+                      "prefabIdentifier": "gltf:1440-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                      "receiveShadow": false,
+                      "renderPass": "main_scene",
+                      "tags": [],
+                      "transform": {
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "sx": 1,
+                        "sy": 1,
+                        "sz": 1,
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                      },
+                      "useEmbeddedBlendshapes": false,
+                      "children": [
+                        {
+                          "modelName": "surfaces",
+                          "identifier": "surfaces:1438-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                          "children": [
+                            {
+                              "modelName": "surface",
+                              "name": "surface0",
+                              "identifier": "surface:1443-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "isMaterialIdentifierEnabled": true,
+                              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:806-6b59218a-6110-46dd-9c0b-e9ba1a20d928",
+                              "surfaceGroupIdentifier": "1444-6b59218a-6110-46dd-9c0b-e9ba1a20d928"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
